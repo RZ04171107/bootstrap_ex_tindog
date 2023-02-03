@@ -1,1 +1,1 @@
-# bootstrap_ex_tindog
+# bootstrap_workshop_tindog
